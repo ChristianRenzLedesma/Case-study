@@ -102,15 +102,19 @@ nav .fa{
     display: none;
 }
 .about, h2{
-  padding: 100px 100px;
+  padding: 20px 140px;
   left: 40px;
   position: relative;
+}
+.about, p{
+    text-align: center;
+    margin: 30px 30px 150px;
 }
 section{
   height: 100vh;
 }
 .about{
-   width: 90%;
+    width: 100%;
     color: #fff;
     position: absolute;
     top: 50%;
